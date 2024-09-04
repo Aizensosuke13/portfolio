@@ -3,7 +3,7 @@ Hi my name is Sulaiman Subhani,I'm passionate about cybersecurity and driven by 
 I’m committed to ethical practices and continuously improving my technical skills in areas like threat detection and network security. I’m excited to contribute to securing digital environments and ensuring that data is protected.
 
 Projects
-- [Security Audit for Botium Toys](https://github.com/Aizensosuke13/your-repo-name/blob/main/Security-Audit.md)
+- [Security Audit for Botium Toys](https://github.com/Aizensosuke13/secuirty-audit/blob/main/Security-Audit.md)
 
 
 
