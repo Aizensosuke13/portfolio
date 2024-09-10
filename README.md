@@ -5,6 +5,8 @@ I’m committed to ethical practices and continuously improving my technical ski
 Projects
 - [Security Audit for Botium Toys](https://github.com/Aizensosuke13/security-audit)- Detailed audit assessing the security posture of a fictional company.
 - [Full Security Audit document for Botium Toys](https://github.com/Aizensosuke13/security-audit/blob/main/Controls%20and%20compliance%20checklist.pdf)
+
+- [DNS and ICMP Protocol Analysis for Network Outage](
   
 
 
