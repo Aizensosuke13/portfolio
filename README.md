@@ -5,9 +5,10 @@ I’m committed to ethical practices and continuously improving my technical ski
 Projects
 - [Security Audit for Botium Toys](https://github.com/Aizensosuke13/security-audit)- Detailed audit assessing the security posture of a fictional company.
 
-- [DNS and ICMP Protocol Analysis for Network Outage](https://github.com/Aizensosuke13/DNS-and-ICMP-Protocol-Analysis-for-Network-Outage)- TCPdumplog + analysis
+- [DNS and ICMP Protocol Analysis for Network Outage](https://github.com/Aizensosuke13/DNS-and-ICMP-Protocol-Analysis-for-Network-Outage)- TCPdumplog +
+- analysis
   
-
+[DDoS Attack Analysis and Mitigation](
 
 
 
