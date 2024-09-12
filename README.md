@@ -7,7 +7,7 @@ Projects
 
 - [DNS and ICMP Protocol Analysis for Network Outage](https://github.com/Aizensosuke13/DNS-and-ICMP-Protocol-Analysis-for-Network-Outage)- TCPdumplog + analysis
   
-- [DDoS Attack Analysis and Mitigation](https://github.com/Aizensosuke13/incident-report-analysis)- full incident report analysis
+- [DDoS Attack Analysis and Mitigation](https://github.com/Aizensosuke13/incident-report-analysis)- Full incident report analysis
 
 
 
