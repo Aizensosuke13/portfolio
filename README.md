@@ -9,7 +9,7 @@ Projects
   
 - [DDoS Attack Analysis and Mitigation](https://github.com/Aizensosuke13/incident-report-analysis)- Full incident report analysis
 
-- [Linux-Permissions_management](https://github.com/Aizensosuke13/Linux-Permissions-Management) - Linux permission management file 
+- [Linux-Permissions_management](https://github.com/Aizensosuke13/Linux-Permissions-Management) - Linux permission management project
 
 
 
